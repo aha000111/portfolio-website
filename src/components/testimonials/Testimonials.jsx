@@ -1,7 +1,7 @@
 import React from 'react';
-import './testimonials.css';
+import 'testimonials.css';
 
-function Testimonials() {
+const Testimonials = () => {
   return (
     <div>Testimonials</div>
   )
