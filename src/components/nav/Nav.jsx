@@ -11,7 +11,7 @@ import {RiMessage2Line} from 'react-icons/ri'
 const nav = () => {
   return (
     <nav>
-      <a href="#"><FaHome /></a>
+      <a href="#" className='active'><FaHome /></a>
       <a href="#about"><BsFilePerson /></a>
       <a href="#experience"><FiBook /></a>
       <a href="#services"><RiServiceFill /></a>
