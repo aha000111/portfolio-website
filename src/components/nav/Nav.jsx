@@ -12,10 +12,10 @@ const nav = () => {
   return (
     <nav>
       <a href="#"><FaHome /></a>
-      <a href="about"><BsFilePerson /></a>
-      <a href="experience"><FiBook /></a>
-      <a href="services"><RiServiceFill /></a>
-      <a href="contact"><RiMessage2Line /></a>
+      <a href="#about"><BsFilePerson /></a>
+      <a href="#experience"><FiBook /></a>
+      <a href="#services"><RiServiceFill /></a>
+      <a href="#contact"><RiMessage2Line /></a>
 
     </nav>
   )
