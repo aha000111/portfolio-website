@@ -1,9 +1,12 @@
 import React from 'react';
 import './nav.css';
+import {FaHome} from 'react-icons/fa'
 
 const nav = () => {
   return (
-    <div>nav</div>
+    <nav>
+      <a href="#"><FaHome /></a>
+    </nav>
   )
 }
 
