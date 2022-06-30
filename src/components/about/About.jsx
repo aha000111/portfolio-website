@@ -36,13 +36,23 @@ const About = () => {
             <article className="about__card">
               <FaBriefcase className='about__icon'/>
               <h5>Projects</h5>
-              <small>10+</small>
+              <small>5+ and growing!</small>
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi ipsam ipsum non aspernatur! 
-            Autem animi nisi unde in totam aperiam harum nostrum velit earum nihil? 
-            Perferendis sed ullam eos esse!
+
+            My hobbies include playing tennis, 7-a-side football, travel and binge-watching netflix.                                                     
+
+          </p>
+
+          <p>
+            I love technology especially the growing efficiencies it affords in today's world, enabling us to do and experience much more by abstracting away the tedious - remember sending letters to the Bank? 
+            Extrapolating not too far in the distant future, I'm incredibly excited about society moving away from the reliance on paper promises - a structural pillar the world has relied upon for thousands of years without success, to a cryptographically secured altnerative. 
+            An alternative that wasn't made possible until a. the advent of the world wide web and b. the solving of the double spend problem was solved in 2009. 
+          </p> 
+
+          <p> 
+            As Nixon once said, "Trust but verify". 
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
