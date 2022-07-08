@@ -30,10 +30,6 @@ footer a {
     color: var(--color-bg);
 }
 
-/* Media queries (medium devices) */
-@media screen and (max-width: 1024px) {
-
-}
 
 /* Media queries (small devices) */
 @media screen and (max-width: 600px) {

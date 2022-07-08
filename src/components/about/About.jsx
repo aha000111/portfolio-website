@@ -41,18 +41,17 @@ const About = () => {
           </div>
           <p>
 
-            My hobbies include playing tennis, 7-a-side football, travel and binge-watching netflix.                                                     
+            My hobbies include: gym, tennis, visiting ancient Megalith's, and binge-watching netflix.                                                    
 
           </p>
 
           <p>
-            I love technology especially the growing efficiencies it affords in today's world, enabling us to do and experience much more by abstracting away the tedious - remember sending letters to the Bank? 
-            Extrapolating not too far in the distant future, I'm incredibly excited about society moving away from the reliance on paper promises - a structural pillar the world has relied upon for thousands of years without success, to a cryptographically secured altnerative. 
-            An alternative that wasn't made possible until a. the advent of the world wide web and b. the solving of the double spend problem was solved in 2009. 
+            I have a deep appreciation for the strides and increased efficiency today's technology affords us, enabling us to do and experience magnitudes more by abstracting away the tedious - remember sending letters to the Bank? 
+            Extrapolating not too far in the distant future, I'm incredibly excited about society moving away from the reliance on paper promises - a structural pillar the world has relied upon for thousands of years without success, to a cryptographically secured altnerative - the first time in known human history such an alternative exists and wouldn't be possible without a) the advent of the world wide web and b) the solving of the double spend problem was solved in 2009. 
           </p> 
 
           <p> 
-            As Nixon once said, "Trust but verify". 
+            Nixon once said, "Trust but verify". 
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
